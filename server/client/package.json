@@ -1,6 +1,9 @@
 {
   "name": "client",
   "version": "0.1.0",
+  "engines": {
+    "node": ">= 18.X.X"
+  },
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.5",
