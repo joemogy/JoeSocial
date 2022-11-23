@@ -1,6 +1,7 @@
 {
   "name": "server",
   "version": "1.0.0",
+  "description": "",
   "main": "index.js",
   "type": "module",
   "dependencies": {
@@ -24,6 +25,5 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "description": ""
+  "license": "ISC"
 }
