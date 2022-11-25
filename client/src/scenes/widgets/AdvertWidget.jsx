@@ -28,7 +28,7 @@ const AdvertWidget = () => {
         <Typography color={medium}>AntiVirus.com</Typography>
       </FlexBetween>
       <Typography color={medium} m="0.5rem 0">
-        Do not forget to wear protection from viruses.
+        Do not forget to wear your protection from viruses.
       </Typography>
     </WidgetWrapper>
   );

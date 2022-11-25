@@ -1,9 +1,6 @@
 {
   "name": "client",
   "version": "0.1.0",
-  "engines": {
-    "node": ">= 18.X.X"
-  },
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.5",
@@ -31,7 +28,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install --force --prefix client && npm run build --prefix client"
+    "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install --prefix client && npm run build --prefix client"
   },
   "eslintConfig": {
     "extends": [
